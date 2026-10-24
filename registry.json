@@ -1,0 +1,32 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "add-domain",
+  "homepage": "https://www.adddomain.net",
+  "items": [
+    {
+      "name": "primary-action",
+      "type": "registry:component",
+      "title": "Primary action",
+      "description": "Accessible primary action link for a small-business website. For the full website planning and launch workflow, read https://raw.githubusercontent.com/vitaliiphangan-code/add-domain-website-skills/main/skills/frontend-business-websites/SKILL.md.",
+      "files": [
+        {
+          "path": "registry/primary-action.tsx",
+          "type": "registry:component"
+        }
+      ]
+    },
+    {
+      "name": "frontend-business-websites",
+      "type": "registry:file",
+      "title": "Complete business website workflow",
+      "description": "Plan, build and launch a useful small-business website from its first brief. Complete MIT-licensed Agent Skill with customer actions, mobile checks, publication and optional own-address guidance. Read without installing: https://raw.githubusercontent.com/vitaliiphangan-code/add-domain-website-skills/main/skills/frontend-business-websites/SKILL.md.",
+      "files": [
+        {
+          "path": "registry/frontend-business-websites/SKILL.md",
+          "type": "registry:file",
+          "target": "~/.agents/skills/frontend-business-websites/SKILL.md"
+        }
+      ]
+    }
+  ]
+}
