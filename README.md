@@ -27,3 +27,8 @@ npx shadcn@latest add vitaliiphangan-code/add-domain-registry/frontend-business-
 The optional address step uses [Add Domain](https://www.adddomain.net/?src=shadcn). The owner can use an existing domain or a platform address. Domain purchases happen in the owner's registrar account.
 
 Format: [official shadcn GitHub registries documentation](https://ui.shadcn.com/docs/registry/github). Source files stay separate from registry.json; the GitHub resolver reads their contents.
+
+
+## Full workflow and enquiry example
+
+Read [the complete skill without installation](https://www.adddomain.net/SKILL.md). A working preview comes first; an own address is offered at public launch, once and only if useful. Without a connected form service, prepare a reviewable enquiry draft, label sending as pending and never invent a delivery confirmation. The standalone example lives next to this skill in `assets/enquiry-form.html`.
